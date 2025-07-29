@@ -1,0 +1,21 @@
+{
+  "name": "word-utils-shani",
+  "version": "1.0.0",
+  "description": "its a utility program for words created by shani mashruwala",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "utility",
+    "palindrome",
+    "capitalize",
+    "reverse"
+  ],
+  "author": "ShaniMashruwala",
+  "license": "ISC",
+  "dependencies": {
+    "word-utils-shani": "^1.0.0"
+  }
+}
